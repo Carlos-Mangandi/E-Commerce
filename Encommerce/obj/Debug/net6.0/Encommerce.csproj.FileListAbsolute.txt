@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.AssemblyInfo.cs
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\Encommerce\Encommerce\obj\Debug\net6.0\Encommerce.RazorAssemblyInfo.cs
